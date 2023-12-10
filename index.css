@@ -293,10 +293,11 @@ body{
   }
   @media (max-width: 420px) {
     .menu-container{
-      left: 30%;
+      left: 20%;
     }
     .portfolio{
       font-size: 20px;
+      left: 2%;
     }
     .intro{
       top:40%;
