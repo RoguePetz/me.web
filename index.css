@@ -226,7 +226,7 @@ body{
     align-items: flex-end;
     position: fixed;
     top: 20px;
-    right: 20px;
+    left:90%;
     z-index: 999;
   }
   
@@ -294,6 +294,9 @@ body{
     }
   }
   @media (max-width: 420px) {
+    .portfolio{
+      font-size: 20px;
+    }
     .intro{
       top:40%;
     }
