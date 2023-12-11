@@ -292,7 +292,7 @@ body{
       left: 10%;
     }
   }
-  @media (max-width: 420px) {
+  @media (max-width: 500px) {
     .menu-container{
       left: 20%;
     }
