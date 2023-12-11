@@ -284,8 +284,15 @@ body{
     top: 10%;
   }
 
-
-  @media (max-width: 500px) {
+  @media (max-width: 1114px) {
+    .nav{
+      visibility: hidden;
+    }
+    .salute{
+      left: 10%;
+    }
+  }
+  @media (max-width: 420px) {
     .menu-container{
       left: 20%;
     }
