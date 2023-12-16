@@ -16,6 +16,7 @@ body{
     color: white;
     overflow-x: hidden;
     font-family: 'Ubuntu', sans-serif;
+    overscroll-behavior: none;
     scroll-behavior: smooth;
     overflow-x: hidden;
 }
