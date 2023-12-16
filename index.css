@@ -287,7 +287,6 @@ body{
   @media (max-width: 1114px) {
     .nav{
       right: 100%;
-      visibility: hidden;
     }
     .salute{
       left: 10%;
@@ -297,6 +296,9 @@ body{
     body{
     overscroll-behavior: none;
 
+    }
+    .nav{
+      right: 100%;
     }
     .menu-container{
       left: 20%;
