@@ -284,6 +284,15 @@ body{
     top: 10%;
   }
 
+  @media (max-width: 1114px) {
+    .nav{
+      right: 100%;
+      visibility: hidden;
+    }
+    .salute{
+      left: 10%;
+    }
+  }
   @media (max-width: 420px) {
     body{
     overscroll-behavior: none;
